@@ -12,5 +12,5 @@ I'm usually the first to hear about technology updates in the classroom and at s
 
 ## ⚙️ Technologies I use
 
-<img src="https://skillicons.dev/icons?i=go,js,ts,py,html,css,sass,tailwind,nodejs,express,react,nextjs,vue,,nuxtjs,webpack,docker,redis,graphql,fastapi,cpp,postgres,mongodb,firebase,vercel,netlify,heroku&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,js,ts,py,html,css,sass,tailwind,nodejs,express,react,nextjs,vue,nuxtjs,webpack,docker,redis,graphql,fastapi,cpp,postgres,mongodb,firebase,vercel,netlify,heroku&theme=dark" />
 </div>
